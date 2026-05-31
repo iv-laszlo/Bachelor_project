@@ -7,8 +7,8 @@ import sounddevice as sd
 
 bit_string = "1010101010"
 
-f0 = 38000        # Frequency for bit 0
-f1 = 42000        # Frequency for bit 1
+f0 = 40000        # Frequency for bit 0
+f1 = 44000        # Frequency for bit 1
 
 bit_duration = 0.01   # seconds per bit (10 ms = 100 bps)
 
